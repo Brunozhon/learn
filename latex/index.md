@@ -47,7 +47,7 @@ Hello world!
 \end{document}
 ```
 
-Then, press the eye (:eye:) button to see your preview!
+Then, press the eye (👁️) button to see your preview!
 
 <img src="https://user-images.githubusercontent.com/69879040/139562983-8ab3e243-db28-4c9d-bc92-34c4749071b6.jpeg" width="500">
 
