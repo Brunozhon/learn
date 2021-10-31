@@ -85,4 +85,4 @@ Then click the build button and then the eye. You should see:
 
 <img src="https://user-images.githubusercontent.com/69879040/139589812-195db30c-ce1e-4525-96de-9a16e06aefa6.png" width="500">
 
-Save the document, and then open it! This is what you should see.
+Save the document, and then open it! [This is what you should see.](equations.pdf)
