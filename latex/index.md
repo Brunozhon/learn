@@ -86,3 +86,22 @@ Then click the build button and then the eye. You should see:
 <img src="https://user-images.githubusercontent.com/69879040/139589812-195db30c-ce1e-4525-96de-9a16e06aefa6.png" width="500">
 
 Save the document, and then open it! [This is what you should see.](equations.pdf)
+
+### Part 2: Two ways of multiplication
+
+Add parts of your code to say:
+
+```latex
+\documentclass{article}
+\begin{document}
+My first addition statement:
+$$x + y$$
+My first subtraction statement:
+$$x - y$$
+My first two multiplication statements:
+$$x \times y$$
+$$x \cdot y$$
+\end{document}
+```
+
+Build, preview, and save!
