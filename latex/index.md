@@ -104,4 +104,4 @@ $$x \cdot y$$
 \end{document}
 ```
 
-Build, preview, and save!
+Build, preview, and save! [This is what you should see.](equations.pdf)
