@@ -2,7 +2,7 @@
 
 On this page:
 - [Prerequistes](#prerequistes)
-- "Hello, world!"
+- ["Hello, world!"](#hello-world)
 
 ## Prerequistes
 
