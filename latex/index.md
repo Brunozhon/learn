@@ -53,4 +53,4 @@ Then, press the eye (:eye:) button to see your preview!
 
 It should still say "My first LaTeX document." Don't worry. Click "save!"
 
-Finally, open your PDF file (not in the Tex Pro app.) If you still see "My first LaTeX document," you can borrow one from me!
+Finally, open your PDF file (not in the Tex Pro app.) If you still see "My first LaTeX document," you can [borrow one from me!](Hello_world.pdf)
