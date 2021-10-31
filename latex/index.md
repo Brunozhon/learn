@@ -4,6 +4,7 @@ On this page:
 - [Prerequistes](#prerequistes)
 - ["Hello, world!"](#hello-world)
   - [Steps](#steps)
+- [Equation Document](#equation-document)
 
 ## Prerequistes
 
@@ -54,3 +55,34 @@ Then, press the eye (👁️) button to see your preview! Oops, silly me. You sh
 It should still say "My first LaTeX document." Don't worry. Click "save!"
 
 Finally, open your PDF file (not in the Tex Pro app.) If you still see "My first LaTeX document," you can [borrow one from me!](Hello_world.pdf)
+
+## Equation document
+
+### Part 1: Addition and subtraction
+
+Name your file "equations." You should still see:
+
+```latex
+\documentclass{article}
+\begin{document}
+My first \LaTeX~document!
+\end{document}
+```
+
+Change it to say:
+
+```latex
+\documentclass{article}
+\begin{document}
+My first addition statement:
+$$x + y$$
+My fist subtraction statement:
+$$x - y$$
+\end{document}
+```
+
+Then click the build button and then the eye. You should see:
+
+<img src="https://user-images.githubusercontent.com/69879040/139589812-195db30c-ce1e-4525-96de-9a16e06aefa6.png" width="500">
+
+Save the document, and then open it! This is what you should see.
