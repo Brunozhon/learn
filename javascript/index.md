@@ -47,7 +47,6 @@ You can download [the minified version](non-zero-zero-null-or-undefined.min.js) 
       } catch(e) {
         console.log("Error happened: " + e) // Error happened: TypeError: Value must be a number, string, object, null, or undefined.
       }
-      
     </script>
   </body>
 </html>
