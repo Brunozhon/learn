@@ -18,3 +18,5 @@ We can demostrate this using a room.
   <dt><code>undefined</code> <i>(special type)</i></dt>
   <dd>A room where the room itself is missing.</dd>
 </dl>
+
+![Rooms to demostrate values.](https://user-images.githubusercontent.com/69879040/143264241-11bcbf27-08a0-46df-8509-bfa43b709bc8.jpeg)
