@@ -99,3 +99,16 @@ Hey! We use stars, so how can we represent the &times; sign. Don't forget, we ca
 ```
 *** x *****
 ```
+
+How do we divide? We *do* have a `÷` (`option` + `/`) key, but should we use it?
+
+1. Yes! It's a foolproof plan to use the `÷` (`option` + `/`) key!
+2. No! Some keyboards do not have the `option` key used to make the `÷` key!
+
+Answer: **2** Especially if you use the on-screen keyboard.
+
+So, which key do we use?
+
+1. You said to use the `witch` key! In other words, the `w` + `i` + `t` + `c` + `h` key!
+2. The `/` key! It's used in making the `÷` key!
+3. The `option` key! It's used in making the `÷` key!
