@@ -56,4 +56,6 @@ What about booleans?
 
 > Oops, I forgot the booleans (`true` and `false`). Maybe **you** can make a version with booleans. But for now, let's just say `true` is non-zero and `false` is zero.
 
+## Numbers
 
+We can represent numbers as a star (`*`). *Twinkle, twinkle, little star. How I wonder what you are. ...*
