@@ -16,5 +16,7 @@ function nonZeroZeroNullOrUndefined(v) {
     return "null"
   } else if (type === "undefined") {
     return "undefined"
+  } else {
+    throw new TypeError("Value must be a number, string, object, null, or undefined.")
   }
 }
