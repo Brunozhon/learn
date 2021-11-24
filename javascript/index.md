@@ -94,7 +94,7 @@ Answer: **2** `x` and `X` can be used as variables, but `*` can't. So, the secon
 3 * 5
 ```
 
-Hey! We use stars, so how can we represent the &times; sign. Don't forget, we can use `x` here.
+Hey! We use stars, so how can we represent the &times; sign? Don't forget, we can use `x` here.
 
 ```
 *** x *****
@@ -112,3 +112,13 @@ So, which key do we use?
 1. You said to use the `witch` key! In other words, the `w` + `i` + `t` + `c` + `h` key!
 2. The `/` key! It's used in making the `÷` key!
 3. The `option` key! It's used in making the `÷` key!
+
+Answer: **2**
+
+```
+5 \ 2
+```
+
+```
+***** ÷ **
+```
