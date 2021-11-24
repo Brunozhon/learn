@@ -59,3 +59,43 @@ What about booleans?
 ## Numbers
 
 We can represent numbers as a star (`*`). *Twinkle, twinkle, little star. How I wonder what you are. ...*
+
+We can add stars:
+
+```javascript
+4 + 6
+```
+
+```
+**** + ******
+```
+
+Subtract stars:
+
+```javascript
+15 - 5
+```
+
+```
+*****
+***** - *****
+*****
+```
+
+Multiply stars &mdash; wait! How do we multiply stars? We don't have a &times; key!
+
+1. Using the `x` key.
+2. Using the `*` (`shift` + `8`) key
+3. Using the `X` (`shift` + `x`) key
+
+Answer: **2** `x` and `X` can be used as variables, but `*` can't. So, the second answer is correct.
+
+```javascript
+3 * 5
+```
+
+Hey! We use stars, so how can we represent the &times; sign. Don't forget, we can use `x` here.
+
+```
+*** x *****
+```
