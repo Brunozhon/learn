@@ -2,7 +2,7 @@
 
 On this page:
 
-- Values
+- [Values](#values)
 
 ## Values
 
@@ -51,3 +51,9 @@ You can download [the minified version](non-zero-zero-null-or-undefined.min.js) 
   </body>
 </html>
 ```
+
+What about booleans?
+
+> Oops, I forgot the booleans (`true` and `false`). Maybe **you** can make a version with booleans. But for now, let's just say `true` is non-zero and `false` is zero.
+
+
