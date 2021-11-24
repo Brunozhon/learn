@@ -9,7 +9,7 @@ function nonZeroZeroNullOrUndefined(v) {
   } else if (
     (type === "number" && v === 0) || // Check for 0
     (type === "string" && v === "") || // Check for empty strings
-    (type === "object" && (v === {} || v === []) // Check for empty arrays and objects
+    (type === "object" && (v === {} || v === [])) // Check for empty arrays and objects
   ) {
     return "zero"
   } else if (type === "object" && v === null) {
