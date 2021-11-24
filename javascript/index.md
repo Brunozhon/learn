@@ -20,3 +20,19 @@ We can demostrate this using a room.
 </dl>
 
 ![Rooms to demostrate values.](https://user-images.githubusercontent.com/69879040/143264241-11bcbf27-08a0-46df-8509-bfa43b709bc8.jpeg)
+
+You can download [the minified version](non-zero-zero-null-or-undefined.min.js) or [the regular version](non-zero-zero-null-or-undefined.js). Then, write this HTML code:
+```html
+<html>
+  <body>
+    <div id="demo"></div>
+    <script src="path/to/non-zero-zero-null-or-undefined.min.js"></script>
+    <!--
+    Or: <script src="path/to/non-zero-zero-null-or-undefined.js"></script>
+    -->
+    <script>
+      
+    </script>
+  </body>
+</html>
+```
