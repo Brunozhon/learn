@@ -25,12 +25,28 @@ You can download [the minified version](non-zero-zero-null-or-undefined.min.js) 
 ```html
 <html>
   <body>
-    <div id="demo"></div>
+    <p>Press F12 to see the console.</p>
     <script src="path/to/non-zero-zero-null-or-undefined.min.js"></script>
     <!--
     Or: <script src="path/to/non-zero-zero-null-or-undefined.js"></script>
     -->
     <script>
+      var t = nonZeroZeroNullOrUndefined // We don't want to write that much
+      console.log(t(1)) // non-zero
+      console.log(t({some: "more", complex: "value"})) // non-zero
+      console.log(t(["these are", "some numbers:", 1, 2, 3, 4])) // non-zero
+      console.log(t("cool")) // non-zero
+      console.log(t(0)) // zero
+      console.log(t("")) // zero
+      console.log(t({})) // zero
+      console.log(t([])) // zero
+      console.log(t(null)) // null
+      console.log(t(undefined)) // undefined
+      try {
+        console.log(t(console))
+      } catch(e) {
+        console.log("Error happened: " + e) // Error happened: TypeError: Value must be a number, string, object, null, or undefined.
+      }
       
     </script>
   </body>
